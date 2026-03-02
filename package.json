@@ -1,0 +1,26 @@
+{
+  "name": "lite-scroll-spy",
+  "version": "1.0.0",
+  "description": "Lite scroll position spy for navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "lite",
+    "scroll",
+    "spy",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/lite-scroll-spy.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
